@@ -1,4 +1,4 @@
-This is a runnable example to demonstrate testdouble/teenytest#38.
+This is a runnable example to demonstrate [testdouble/teenytest#38](https://github.com/testdouble/teenytest/issues/#38).
 
 ## Running this
 
