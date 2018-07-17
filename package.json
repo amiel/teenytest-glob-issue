@@ -1,0 +1,15 @@
+{
+  "name": "teenytest-glob-issue-example",
+  "version": "0.0.0",
+  "description": "An example to demonstrate an issue with globbing in teenytest",
+  "scripts": {
+    "test": "teenytest test/**/*.test.js"
+  },
+  "author": "amiel.martin@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "teenytest": "^5.1.1"
+  }
+}
